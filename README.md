@@ -49,12 +49,14 @@ npm run dev
 Ensure MongoDB is running locally or use MongoDB Atlas and update the .env file with your MongoDB URI.
 
 
+
 ## 🎯 Features  
 ✅ **Create, Read, Update, Delete (CRUD)** book details  
 ✅ **View books in a table or card layout**  
 ✅ **Modern UI with Tailwind CSS**  
 ✅ **RESTful API for seamless communication**  
 ✅ **State management using React Hooks**  
+
 
 ## 📂 Project Structure  
 ```plaintext
@@ -90,10 +92,8 @@ Ensure MongoDB is running locally or use MongoDB Atlas and update the .env file 
 🔹 Deploy using **Vercel (Frontend)** & **Render (Backend)**  
 
 ## 🤝 Contributing  
-Contributions are welcome! Open an issue or submit a PR.  
+Contributions are welcome! 
 
-## 📜 License  
-This project is **open-source** under the MIT License.  
 
 ## 📬 Contact  
 📧 Email: [nm5746@srmist.edu.in](mailto:nm5746@srmist.edu.inz)  
