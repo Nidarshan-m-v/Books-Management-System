@@ -1,14 +1,13 @@
-```md
-# 📚 Books Management System
+# 📚 Books Management System  
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Full%20Stack-green)  
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green) 
-![Express.js](https://img.shields.io/badge/Express.js-Backend-blue)
-![React.js](https://img.shields.io/badge/React.js-Frontend-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Server-yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)  
+![Express.js](https://img.shields.io/badge/Express.js-Backend-blue)  
+![React.js](https://img.shields.io/badge/React.js-Frontend-blue)  
+![Node.js](https://img.shields.io/badge/Node.js-Server-yellow)  
 
 ## 🌟 Overview  
-Books Management System is a **MERN Stack** web app that allows users to **add, modify, delete, and view books** in a **table or card format**. It provides a simple UI for efficient book record management.
+Books Management System is a **MERN Stack** web application that allows users to **add, modify, delete, and view books** in a **table or card layout**. It provides an intuitive UI for efficiently managing book records, making it a useful tool for libraries or personal collections.
 
 ## 🚀 Tech Stack  
 🔹 **Frontend:** React.js (Vite)  
@@ -17,28 +16,33 @@ Books Management System is a **MERN Stack** web app that allows users to **add, 
 🔹 **Styling:** Tailwind CSS  
 🔹 **State Management:** React Hooks  
 🔹 **API Handling:** Axios  
-```
 
 ## ⚙️ Installation & Setup  
-1️⃣ **Clone the Repository**  
+
+### 🔧 Prerequisites  
+- **Node.js** installed  
+- **MongoDB** running locally or on MongoDB Atlas  
+- **Git** installed  
+
+### 📥 Clone the Repository  
 ```sh
 git clone https://github.com/your-username/books-management.git
 cd books-management
-```
-2️⃣ **Backend Setup**  
-```sh
+
+
+🔙 Backend Setup
 cd backend
 npm install
 npm start
-```
-3️⃣ **Frontend Setup**  
-```sh
+
+🎨 Frontend Setup
 cd frontend
 npm install
 npm run dev
-```
-4️⃣ **MongoDB Setup**  
-Ensure MongoDB is running locally or use **MongoDB Atlas**.
+
+🛢️ MongoDB Setup
+Ensure MongoDB is running locally or use MongoDB Atlas and update the .env file with your MongoDB URI.
+
 
 ## 🎯 Features  
 ✅ **Create, Read, Update, Delete (CRUD)** book details  
