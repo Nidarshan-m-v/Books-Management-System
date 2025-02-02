@@ -28,17 +28,22 @@ Books Management System is a **MERN Stack** web application that allows users to
 ```sh
 git clone https://github.com/your-username/books-management.git
 cd books-management
+```
 
 
 🔙 Backend Setup
+```sh
 cd backend
 npm install
 npm start
+```
 
 🎨 Frontend Setup
+```sh
 cd frontend
 npm install
 npm run dev
+```
 
 🛢️ MongoDB Setup
 Ensure MongoDB is running locally or use MongoDB Atlas and update the .env file with your MongoDB URI.
